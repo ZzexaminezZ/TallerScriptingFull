@@ -1,5 +1,10 @@
 # TallerScriptingFull
  Taller para la materia scripting de IDED UPB
+Integrantes: 
+Anna melendez
+Juan camilo lasso gutierrez
+Jhony alexis atehortua mejia
+Miguel angel leon rico
 
 LOVE LOVELY YOU
 Link ejecutable
@@ -7,15 +12,15 @@ https://drive.google.com/drive/folders/15sxt8GxIdLVUpnpjbrRWxijSKvgy4Da-?usp=sha
 
 
 Instrucciones:
-1. En la pantalla principal aparece un boton en todo el medio, ahÌ comienza el juego
+1. En la pantalla principal aparece un boton en todo el medio, ah√≠ comienza el juego
 2. Puedes elegir cualquier de las chicas
-3. Al elegir a una de ellas, comenzar· el juego 
+3. Al elegir a una de ellas, comenzar√° el juego 
    1. Taylor(Nice)
    2. Ariana(Medium)
    3. Karol(Hard)
-4. La idea es clickear cada una de esas burbujas y asÌ conseguir tanta expectativa como puedas, evitar que baje el nivel de interÈs de tu cita
+4. La idea es clickear cada una de esas burbujas y as√≠ conseguir tanta expectativa como puedas, evitar que baje el nivel de inter√©s de tu cita
 5. Para que el juego no tenga un tiempo infinito, se restringe este
-6. Ganas cuando consigues una cantidad de interÈs y expectativa ,y pierdes si tu nivel de interÈs baja.
+6. Ganas cuando consigues una cantidad de inter√©s y expectativa ,y pierdes si tu nivel de inter√©s baja.
 * Hay 6 tipos de burbujas que caen
    * Flirt(Amarillo)
    * Love(Rojo)
@@ -24,14 +29,14 @@ Instrucciones:
    * Affection(Morado)
    * Boorish(Negro)
 Bugs
-* Es recomendable ejecutar al momento de abrir Unity ,con una resoluciÛn de 1920 x 1080 ya que se puede daÒar la ubicaciÛn de UI, y como est·n ubicados los paneles. Adem·s podrÌan aparecer las burbujas grandes.
-* La flecha del termÛmetro se mueve durante la partida, aunque tiende a quedarse quieta en algunos puntos
+* Es recomendable ejecutar al momento de abrir Unity ,con una resoluci√≥n de 1920 x 1080 ya que se puede da√±ar la ubicaci√≥n de UI, y como est√°n ubicados los paneles. Adem√°s podr√≠an aparecer las burbujas grandes.
+* La flecha del term√≥metro se mueve durante la partida, aunque tiende a quedarse quieta en algunos puntos
 * Puede ser que se pase el nivel de Expectativa
 
 
 Assets
-Todos los assets con respecto a ui y  las burbujas fueron diseÒados por nosotros
-Im·genes:
+Todos los assets con respecto a ui y  las burbujas fueron dise√±ados por nosotros
+Im√°genes:
 https://www.last.fm/es/music/Karol+G/+images/c6ff5889576bd8152f31723712bd4d93
 https://www.ecopetit.cat/ecvi/bTxxRT_taylor-swift-portrait-wallpaper-taylor-swift-wallpaper-for/
 https://jornaldebrasilia.com.br/nahorah/ariana-grande-e-artista-com-maior-rendimento-de-streaming-no-mundo/
